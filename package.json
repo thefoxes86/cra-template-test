@@ -1,5 +1,5 @@
 {
-  "name": "test-template",
+  "name": "cra-template-test",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
